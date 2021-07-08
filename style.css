@@ -15,7 +15,7 @@ h1 {
     font-size: 13px;
 
 }
-section {
+.flexible-container {
     display: flex;
     margin-bottom: 120px;
 }
