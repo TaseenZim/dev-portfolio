@@ -1,5 +1,6 @@
 body {
     font-family: 'Otomanopee One', sans-serif;
+    margin: 0;
 }
 h1 {
     font-size: 50px;
@@ -9,4 +10,30 @@ h1 {
 }
 #first-pera {
     font-size: 13px;
+}
+section {
+    display: flex;
+}
+.half-wid {
+    width: 50%;
+    padding-left: 5%;
+}
+.half-wid img {
+    width: 80%;
+    padding-left: 5%;
+}
+.half-wid p {
+    text-align: justify;
+}
+.link-button {
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px 40px ;
+    color: white;
+    border-radius: 7px;
+    background-image: linear-gradient(to right, darkred , tomato);
+}
+.top-banner {
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
 }
