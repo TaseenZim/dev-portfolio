@@ -34,7 +34,7 @@ h1 {
 .link-button {
     text-decoration: none;
     background-color: orange;
-    padding: 10px 40px ;
+    padding: 10px 10px ;
     color: white;
     border-radius: 7px;
     background-image: linear-gradient(to right, darkred , tomato);
