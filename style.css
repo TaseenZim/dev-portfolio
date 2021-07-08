@@ -1,3 +1,12 @@
 body {
     font-family: 'Otomanopee One', sans-serif;
 }
+h1 {
+    font-size: 50px;
+}
+.orange-color {
+    color: orange;
+}
+#first-pera {
+    font-size: 13px;
+}
