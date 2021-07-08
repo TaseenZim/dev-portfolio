@@ -23,10 +23,12 @@ h1 {
 .half-wid {
     width: 50%;
     padding-left: 5%;
+    margin-right: 5%;
 }
 .half-wid img {
     width: 80%;
     padding-left: 5%;
+    
 }
 .half-wid p {
     text-align: justify;
@@ -48,17 +50,28 @@ h1 {
     background-repeat: no-repeat;
     background-position: right;
 }
-.half-wids {
+.half-widsr {
     width: 50%;
-    padding-left: 5%;
-    padding-right: 5%;
+    padding-left: 10%;
+    padding-right: 10%;
+    box-shadow: 10px 10px 40px black ;
+    margin-right: 5%;
+    margin-left: 5%;
+    margin-top: 5%;
+    
+    
+    
+    
+    
+    
     
 }
 .half-wids img {
     width: 80%;
-    padding-right: 10%;
+    padding-right: 20%;
+    
 }
-.half-wids p {
+.half-widsr p {
     text-align: justify;
 }
 .sec-pera {
@@ -68,4 +81,28 @@ h1 {
 #jojo {
     text-align: center;
     color: white;
+}
+.wd {
+    color: orange;
+}
+.or {
+    color: tomato;
+}
+.exp {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+}
+#last-one {
+border-left: 10px solid;
+border-image: linear-gradient(red, orange) ;
+border-image-slice: 1;
+}
+#last-two {
+    border-left: 10px solid;
+border-image: linear-gradient(orange, red) ;
+border-image-slice: 1;
+}
+footer p{
+text-align: center;
+color: rgba(255, 255, 255, 0.534);
 }
