@@ -1,7 +1,7 @@
 body {
     font-family: 'Otomanopee One', sans-serif;
     margin: 0;
-}
+    background-color: teal;}
 h1 {
     font-size: 50px;
 }
@@ -40,7 +40,7 @@ h1 {
     background-image: linear-gradient(to right, darkred , tomato);
 }
 .top-banner {
-    background-image: url(images/top-banner.png);
+    background-image: url(images/top.png);
     background-repeat: no-repeat;
 }
 .dream-big {
@@ -50,20 +50,22 @@ h1 {
 }
 .half-wids {
     width: 50%;
-    padding-right: 10%;
+    padding-left: 5%;
+    padding-right: 5%;
     
 }
 .half-wids img {
     width: 80%;
-    padding-right: 5%;
+    padding-right: 10%;
 }
 .half-wids p {
     text-align: justify;
 }
 .sec-pera {
     font-size: 13px;
+    
 }
 #jojo {
     text-align: center;
-    color: royalblue;
+    color: white;
 }
